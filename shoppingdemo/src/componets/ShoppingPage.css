@@ -1,0 +1,22 @@
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+input{
+    font-size: 30px;
+}
+.content{
+  background-color: rgb(212, 203, 188);
+
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+.items{
+    margin: 10px;
+}
